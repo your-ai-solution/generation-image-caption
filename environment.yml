@@ -1,0 +1,19 @@
+
+name: image-caption-generation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pillow
+  - scikit-learn
+  - pip:
+      - torch
+      - torchvision
+      - transformers
+      - kagglehub
+      - tqdm

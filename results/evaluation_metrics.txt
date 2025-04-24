@@ -1,0 +1,3 @@
+Evaluation Metrics:
+Total Samples: 8095
+Top-1 Accuracy: 0.1506

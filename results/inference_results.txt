@@ -1,0 +1,450 @@
+Image: 504904434_889f426c6e.jpg
+True Caption: A boy runs past a house carrying a very small plastic foam football .
+Top-5 Predicted Captions:
+  - A boy in a white t-shirt does skateboard tricks .
+  - A boy runs past a house carrying a very small plastic foam football .
+  - A boy wearing a flowered shirt raises his arm and jumps .
+  - a young man doing tricks on a skateboard
+  - a young man wearing a blue shirt with a strange white building in the background
+
+Image: 3326086533_23a0a54a8e.jpg
+True Caption: The wet dog has retrieved the pink purse with aqua handles .
+Top-5 Predicted Captions:
+  - A black dog is running outside with a toy in its mouth .
+  - A little black dog is running in the grass with a pink purse in its mouth .
+  - A black dog is running on the grass with a pink purse in its mouth .
+  - A big black poodle running on the grass with a toy in its mouth .
+  - A black dog clutches a pink purse in his teeth and runs .
+
+Image: 3532192208_64b069d05d.jpg
+True Caption: Man with grey shirt with a white name badge .
+Top-5 Predicted Captions:
+  - Red-headed man with " Flickr " badge at event .
+  - A man is standing at the back of a room with a sticker on his shirt .
+  - Man with grey shirt with a white name badge .
+  - The man in the read sweatshirt has his hair in dreadlocks .
+  - The man in the t-shirt , with a gold chain around his neck , is in a room with three others people .
+
+Image: 2896668718_0c3cff910f.jpg
+True Caption: Two football players are getting ready to tackle each other
+Top-5 Predicted Captions:
+  - Football players in blue and orange uniforms are huddled together and hugging each other .
+  - Two rival football players head to head .
+  - Two football players are getting ready to tackle each other
+  - Two football players try to tackle a player of the opposite team .
+  - A football player dodges a tackle from his opponent .
+
+Image: 241345427_ece0d186c2.jpg
+True Caption: A football player wears a jersey wuth the number " 4 " on it .
+Top-5 Predicted Captions:
+  - A football player in a purple jersey is running the ball in for a touchdown .
+  - A football player runs past an official carrying a football .
+  - A player in purple , white , and black attempts to make a play near the end of a field .
+  - A football player wearing a gold helmet runs holding a football .
+  - A football player is kicking the ball while the opposing fans watch .
+
+Image: 247691240_3881777ab8.jpg
+True Caption: There is a man in a light shirt climbing a rocky cliff .
+Top-5 Predicted Captions:
+  - A man in black pants climbing a rock wall .
+  - a man climbs a rock .
+  - Man without shirt climbing rock face .
+  - A man climbing a rock .
+  - There is a man in a light shirt climbing a rocky cliff .
+
+Image: 96420612_feb18fc6c6.jpg
+True Caption: A shirtless man bodysurfs .
+Top-5 Predicted Captions:
+  - A man surfs on a yellow board .
+  - A shirtless man rides a skateboard .
+  - A man in red trunks flies through the air with a boogie board .
+  - A man rides a yellow surfboard .
+  - Surfer on long yellow board .
+
+Image: 3339105374_cc41e0b7d7.jpg
+True Caption: Two people are walking up a snowy hill with a dog .
+Top-5 Predicted Captions:
+  - A girl falling down in the snow as another looks on .
+  - A woman in a red coat with a man in a white and black coat and a black dog in the snow .
+  - A group of people laying in the snow , while another person jumps them .
+  - Two people playing on a snowy hill .
+  - A young skier receives a lesson in the snow from an adult .
+
+Image: 3553225222_f5ebe44af1.jpg
+True Caption: A child in a graduation gown throws the cap in the air .
+Top-5 Predicted Captions:
+  - A child in a graduation gown throws the cap in the air .
+  - Young girl in red graduation suit flings her hat upward into the field .
+  - A child who is celebrating their graduation in a field .
+  - A young child dressed in a graduation gown is throwing a graduation cap in the air .
+  - A young girl throws her graduation cap into the air .
+
+Image: 401476986_73918145a3.jpg
+True Caption: A German Shepherd jumping in midair .
+Top-5 Predicted Captions:
+  - A German shepherd leaps in midair .
+  - A German Shepherd jumping in midair .
+  - A German sheperd breed dog is running in the opposite direction of a person .
+  - A young German Shepherd runs with a toy in his mouth .
+  - A German shepherd is playing with a red ball .
+
+Image: 2115849046_2aa9fa8d13.jpg
+True Caption: The dog is running in the grass next to the water .
+Top-5 Predicted Captions:
+  - A large orange dog runs through the grass by the water where a large boat is sailing in the background .
+  - A dog is running on the grass beside a boat on the river .
+  - A brown dog running on shore with a boat in the background .
+  - A large brown dog leans into the water from the grassy shore .
+  - A dog near the shore of a body of water .
+
+Image: 2501595799_6316001e89.jpg
+True Caption: A little boy is jumping into an outdoor kiddie pool
+Top-5 Predicted Captions:
+  - A young boy wearing a red swimsuit jumps into a blue kiddie pool .
+  - A little boy jumps into a child 's pool in a backyard .
+  - A little boy is jumping into an outdoor kiddie pool
+  - A little boy in red trunks plays in a kiddie pool .
+  - A boy wearing red shorts is jumping into a paddling pool .
+
+Image: 1786425974_c7c5ad6aa1.jpg
+True Caption: the black dog is sniffing the brown dog 's butt .
+Top-5 Predicted Captions:
+  - A brown dog and a black and white dog are running over grassy hills .
+  - A dog and a cow are on a rocky slope .
+  - Two black and white dogs walking on dirt , one of which has a ball in its mouth .
+  - A dog and a cow are standing on a hillside .
+  - Two black and white dogs after something in the mud .
+
+Image: 1865794069_6e3a1e57bb.jpg
+True Caption: A boy in an all blue uniform kicks a blue soccer ball in a grassy area .
+Top-5 Predicted Captions:
+  - A young boy dressed in blue and white is kicking a soccer ball .
+  - A blond boy with a navy blue uniform kicks a soccer ball in an open field .
+  - A boy in an all blue uniform kicks a blue soccer ball in a grassy area .
+  - A little boy is playing soccer at a field .
+  - The little boy gets ready to kick the soccer ball .
+
+Image: 2966190737_ceb6eb4b53.jpg
+True Caption: Three men in white wait to swing at a ball .
+Top-5 Predicted Captions:
+  - The three men are playing cricket .
+  - Three men in uniforms are playing cricket on a field .
+  - A man wearing white , including shin guards , swings the bat in a cricket game .
+  - Two guys dressed in white play Cricket .
+  - A man is wearing white and playing cricket .
+
+Image: 3463034205_e541313038.jpg
+True Caption: A man on a bike jumping on a bike ramp .
+Top-5 Predicted Captions:
+  - A rollerblader riding a handrail .
+  - A teenage boy on a bicycle is jumping off a ramp .
+  - A boy rides his skateboard up an incline next to a fence .
+  - A person does tricks on a bike on a ramp surrounded by trees .
+  - A person wearing Rollerblades slides down a handrail .
+
+Image: 2470486377_c3a39ccb7b.jpg
+True Caption: A boy in a black shirt punches a yellow punching bag while a boy in a blue sweatshirt holds the bag .
+Top-5 Predicted Captions:
+  - A boy in a black shirt punches a yellow punching bag while a boy in a blue sweatshirt holds the bag .
+  - The boy in the black sweatshirt is hitting the yellow object held by the boy in the blue sweatshirt .
+  - A boy holds a blue stick , as a man holds a pinata above him .
+  - A boy tries to throw water on another person with his water bottle .
+  - A young boy is getting ready to hit a pinata with a blue baseball bat .
+
+Image: 2929006980_9f9f8f3d21.jpg
+True Caption: Man on specialized skateboard being propelled by unseen kite
+Top-5 Predicted Captions:
+  - A man on a roller scooter holding on to rope
+  - A man stands on a four-wheeled board attached to a harness .
+  - Heavyset man taking child out of swing set .
+  - Man on specialized skateboard being propelled by unseen kite
+  - This person , seated on a type of go-cart , is riding downhill .
+
+Image: 1255504166_f2437febcb.jpg
+True Caption: A small child in water with a splash encircling him while the white clouds float over the mountains .
+Top-5 Predicted Captions:
+  - A little boy is playing in the water with a beautiful sunset and mountains in the background .
+  - A young boy plays in the water with the mountains in the background .
+  - A small child in water with a splash encircling him while the white clouds float over the mountains .
+  - A boy playing in a lake
+  - Child playing in waves with sun on the horizon .
+
+Image: 997722733_0cb5439472.jpg
+True Caption: A man is rock climbing high in the air .
+Top-5 Predicted Captions:
+  - A man in red clings to a sheer cliff face .
+  - A man in a red suit climbs a rock wall .
+  - Man with red shoes , white shirt and grey pants climbing .
+  - A rock climber in a red shirt .
+  - A man climbing the side of a cliff .
+
+Image: 3301744710_b51280eb56.jpg
+True Caption: An elderly man in a blue shirt is holding up a piece of canvas art .
+Top-5 Predicted Captions:
+  - An elderly man in a blue shirt is holding up a piece of canvas art .
+  - The man in the blue smock and beret holds up a brass rubbing .
+  - A man wearing a blue shirt holds up a piece of art .
+  - man holding black paper with white illustration
+  - The man in the blue shirt shows of a picture .
+
+Image: 3682038869_585075b5ff.jpg
+True Caption: A young girl hiding behind a tree in a forest .
+Top-5 Predicted Captions:
+  - A young girl wearing a striped dress peeks out from behind a tree .
+  - A young girl hiding behind a tree in a forest .
+  - A little girl is peaking out from behind a tree .
+  - A young girl peeking out from behind a tree in a wooded area .
+  - A little girl peering out from behind a tree .
+
+Image: 2726301121_95a2fbd22b.jpg
+True Caption: A blond woman with a tattoo on her arm stands near a wall .
+Top-5 Predicted Captions:
+  - A blonde-haired girl wears a tank-top that says " Thank You " and sports a large tattoo .
+  - a woman wearing a black tank top revealing a large fairy tattoo .
+  - The woman in the tank top has a tattoo on her arm .
+  - A blond woman with a tattoo of on an angel on her arm walking down the street , a concrete wall in the background .
+  - A blond woman with a tattoo on her arm stands near a wall .
+
+Image: 470887785_e0b1241d94.jpg
+True Caption: A woman speaking at an Armenian Genocide event
+Top-5 Predicted Captions:
+  - A speaking woman at a podium has the phrase " Armenian Genocide " written on it , flanked by priests and men in suits .
+  - A woman speaking at an Armenian Genocide event
+  - A lady is giving a speech dealing with the Armenian genocide .
+  - A woman speaks at a podium surrounded by religious men .
+  - A middle eastern woman is talking into a microphone at a protest event .
+
+Image: 118309463_a532b75be9.jpg
+True Caption: The boys are all wearing the same baseball hats .
+Top-5 Predicted Captions:
+  - A small boy smiles as he stands with others wearing the same black hats .
+  - Three boys wearing Florida Marlins hats .
+  - Children sporting their Florida Dolphin caps .
+  - A man wearing all black and a black hat is smiling .
+  - The boys are all wearing the same baseball hats .
+
+Image: 541046380_513e295384.jpg
+True Caption: An exited girl in a bright pink shirt is observed by another girl in a light pink shirt .
+Top-5 Predicted Captions:
+  - An exited girl in a bright pink shirt is observed by another girl in a light pink shirt .
+  - two young girls wearing pink shirts ridding on a merry-go-round at a park
+  - Two young girls play together in a mall .
+  - Two little girls in front of the Build a Bear workshop .
+  - A young girl on a blue and yellow merry-go-round , with a blurry background .
+
+Image: 439916996_1ddb9dc8e7.jpg
+True Caption: A woman throws a Frisbee for her two brown dogs to chase .
+Top-5 Predicted Captions:
+  - A woman in a blue jacket watches as her two brown dogs play with a red ball in a grassy yard .
+  - brown dogs and a woman in a yard
+  - A brown dog persues a Frisbee across the grass as the thrower watches .
+  - An adult golden retriever and a puppy are playing tug of war with a brown toy .
+  - An elderly man and woman are sitting on lawn chairs holding onto the leash of a brown dog .
+
+Image: 2282043629_91b7831352.jpg
+True Caption: A man and a woman pose in the snow with four children .
+Top-5 Predicted Captions:
+  - A man and a woman pose in the snow with four children .
+  - A family standing in the snow on a sledding trip .
+  - A family poses in a snowy forest .
+  - A family stands in the snowy woods .
+  - Three adults and a toddler stand on a snowy path .
+
+Image: 3474406285_01f3d24b71.jpg
+True Caption: a brown dog jumping over a blue and yellow stick .
+Top-5 Predicted Captions:
+  - a black dog jumping over a yellow pole in an obstacle course
+  - The brown dog is jumping a hurdle over a yellow and black pole .
+  - A brown dog is running over an obstacle course with its mouth wide open .
+  - A dog runs through an obstacle course .
+  - A brown dog jumps over an obstacle .
+
+Image: 3242919570_39a05aa2ee.jpg
+True Caption: A dog is running through the snow .
+Top-5 Predicted Captions:
+  - The grey and white dog is running through the snow .
+  - a dog runs across the snow .
+  - Dog running through the snow .
+  - A dog runs in the snow .
+  - a dog runs through the snow .
+
+Image: 2913207978_9e9624e249.jpg
+True Caption: A woman with a fan near the street .
+Top-5 Predicted Captions:
+  - An Asian woman in a misspelled t-shirt fans herself in the mid-afternoon sun while waiting for a bus in the city .
+  - A woman with a tattoo on her back walks away from the camera .
+  - The woman in the green striped shirt and backpack has a tattoo on her back .
+  - A woman in a white shirt standing beside a road fanning herself .
+  - The little girl in a white dress stands by a street with white words written on it .
+
+Image: 733964952_69f011a6c4.jpg
+True Caption: A man is sitting by a large plant waiting to shine a customer 's shoes .
+Top-5 Predicted Captions:
+  - A man sites on a bench waiting to shoe shine .
+  - A man sits ourdoors next to cardboard boxes and plays an instrument .
+  - A man sits on a bench .
+  - A man sits outdoors with some of his belongings .
+  - A man sits on a box and plays a guitar in the street .
+
+Image: 2584412512_6767593f24.jpg
+True Caption: Two dogs are playing together .
+Top-5 Predicted Captions:
+  - A white spotted dog plays with a brown dog on the green grass .
+  - two puppies playing around in the grass
+  - Two puppies play in the grass
+  - A fluffy white and brown puppy is playing with a white , curly haired puppy .
+  - A white dog and a white and brown puppy playing .
+
+Image: 3134341610_3c55e373a7.jpg
+True Caption: A woman in mask sits next to a man wearing a Santa suit and also in mask as they hold wine glasses next to a Christmas tree .
+Top-5 Predicted Captions:
+  - Santa and a woman drink wine next to the christmas tree while wearing joke disguise glasses .
+  - Two people , one of whom is in a Santa costume , pose wearing funny glasses .
+  - Two people with silly disguises at Christmas time
+  - A woman in mask sits next to a man wearing a Santa suit and also in mask as they hold wine glasses next to a Christmas tree .
+  - A man and woman pose on a couch .
+
+Image: 2450299735_62c095f40e.jpg
+True Caption: A little girl splashes in a pool of water .
+Top-5 Predicted Captions:
+  - A little girl in a white shirt sliding down a green slide splashing into a blue baby pool .
+  - A little girl splashes in a pool of water .
+  - Child is splashing around in a green and blue pool .
+  - A girl splashes in the water near a big blue water slide .
+  - Little girl slides down in the pool .
+
+Image: 3532192208_64b069d05d.jpg
+True Caption: A man in a room with three other people holding a large camera .
+Top-5 Predicted Captions:
+  - Red-headed man with " Flickr " badge at event .
+  - A man is standing at the back of a room with a sticker on his shirt .
+  - Man with grey shirt with a white name badge .
+  - The man in the read sweatshirt has his hair in dreadlocks .
+  - The man in the t-shirt , with a gold chain around his neck , is in a room with three others people .
+
+Image: 3585123310_9a8e94bd2b.jpg
+True Caption: Three puppies on a couch next to a bottle of milk .
+Top-5 Predicted Captions:
+  - Three puppies laying on a couch with a bottle of milk , one with its mouth wide open .
+  - A fluffy white and brown puppy is playing with a white , curly haired puppy .
+  - The white puppies are playing on a couch with a baby bottle .
+  - A white dog and a white and brown puppy playing .
+  - a small white and black dog jumping over a big brown couch .
+
+Image: 473220329_819a913bbb.jpg
+True Caption: A young woman crosses a bridge through a field of tall grass .
+Top-5 Predicted Captions:
+  - A woman is walking away on a wooden walkway through a field of golden plants .
+  - A woman with dark hair walks through a grassy field on a path with wooden handrails .
+  - A woman walking over a bridge with tall grass on either side of her .
+  - A young woman crosses a bridge through a field of tall grass .
+  - A woman walks along a boardwalk
+
+Image: 207584893_63e73c5c28.jpg
+True Caption: Hang glider on beach
+Top-5 Predicted Captions:
+  - A person on a beach in a green hang glider .
+  - Hang glider on beach
+  - A person in a hang-glider .
+  - A woman with a green sunshade is passing a sales merchant on the beach .
+  - A small parasail .
+
+Image: 3190677999_60bbd330fd.jpg
+True Caption: One child in black is walking down a hill covered in white snow while 2 children are on their knees .
+Top-5 Predicted Captions:
+  - A group of people laying in the snow , while another person jumps them .
+  - One child in black is walking down a hill covered in white snow while 2 children are on their knees .
+  - A woman in a red coat with a man in a white and black coat and a black dog in the snow .
+  - A group lies in the snow while someone on a blue snow sled jumps over them .
+  - A girl falling down in the snow as another looks on .
+
+Image: 2656749876_e32495bd8c.jpg
+True Caption: A priest carrying a small blue bag walking down the street talking on a cellphone .
+Top-5 Predicted Captions:
+  - Priest in black walking on sidewalk carrying a blue bag and talking on cellphone .
+  - Priest walking with blue bag while talking on cellphone .
+  - A priest carrying a small blue bag walking down the street talking on a cellphone .
+  - A member of the clergy carries a blue bag in his hand and talks on the phone as he walks .
+  - A woman with a black bag is smoking a cigarette
+
+Image: 1523984678_edd68464da.jpg
+True Caption: Small dog with red harness fetching a ball .
+Top-5 Predicted Captions:
+  - A dog catches a tennis ball .
+  - Gold and white dog catching a tennis ball in its mouth .
+  - The tan and white dog is running outside with a tennis ball in its mouth .
+  - A dog jumps up to catch a tennis ball in a grassy field .
+  - a brown and white dog has is mouth open ready to catch a green ball .
+
+Image: 1573017288_4d481856e2.jpg
+True Caption: A girl with extended arms goes down a slide .
+Top-5 Predicted Captions:
+  - A girl with arms raised in sliding down a red and white slide .
+  - A girl with her arms raised riding down an inflatable slide .
+  - The little girl in white is bouncing on a multicolored inflatable .
+  - A young girl with a heart tank top raises her hands as she slides .
+  - A girl bounces in a bounce house .
+
+Image: 798343627_7492fe0c12.jpg
+True Caption: The young girl blows a huge bubble .
+Top-5 Predicted Captions:
+  - The girl wearing the orange shirt and glasses is blowing a huge bubble .
+  - A young girl wearing glasses and an orange t-shirt blows a large clear bubble .
+  - A small girl blows on an orange bubble stick .
+  - A young girl is blowing bubbles with an orange bubble wand .
+  - A woman blows a massive bubble .
+
+Image: 1362128028_8422d53dc4.jpg
+True Caption: kids play in a blue tub full of water outside
+Top-5 Predicted Captions:
+  - Three little boys take a bath in a rubber bin on the grass .
+  - The little kids sit outdoors in a small tub of water .
+  - Two children outside near a container of water and a watering pail
+  - kids play in a blue tub full of water outside
+  - On a hot day , three small kids sit in a big container filled with water .
+
+Image: 2713554148_64cd465e71.jpg
+True Caption: four children are dancing around a pole in a city street .
+Top-5 Predicted Captions:
+  - four children are dancing around a pole in a city street .
+  - children playing around a streetpole
+  - The children are talking and playing in the street .
+  - Little kids play a game of running around a pole .
+  - Children walk in the city .
+
+Image: 2121357310_f8235311da.jpg
+True Caption: Boy in black shorts sliding on black surface covered with water with green trees in the background .
+Top-5 Predicted Captions:
+  - A man holds a young boy upside down over a puddle of water .
+  - Boy sliding on a wet plastic surface
+  - Two guys are in a pool and one is falling of his innertube .
+  - A man in black shorts is sliding on a tarp .
+  - A boy in a swimsuit slides along a stretch of wet plastic .
+
+Image: 1745110280_0cbff5e273.jpg
+True Caption: A caramel colored dog sits in front of trees looking forward .
+Top-5 Predicted Captions:
+  - A caramel colored dog sits in front of trees looking forward .
+  - A large tan dog sits on the edge of the woods .
+  - The brown dog walks through the flowers .
+  - A brown dog is staring into the distance while standing on dry grass .
+  - The large brown dog is sitting on the path next to a tree .
+
+Image: 3259231890_16fe167b31.jpg
+True Caption: A woman leans against the wall while a camera operates next to her .
+Top-5 Predicted Captions:
+  - A woman in a black coat with a camera on a tripod
+  - a woman stands behind a video camera .
+  - A woman with a camera on a tripod is smiling for another camera .
+  - A woman stands against a wall near a video camera .
+  - A woman holding a video camera .
+
+Image: 2385871317_44cde2f354.jpg
+True Caption: A girl beside a blue tarp wall wearing a backpack and a purse .
+Top-5 Predicted Captions:
+  - A young girl wearing a yellow shirt with a blue backpack is walking next to a fence covered with a blue plastic cover .
+  - A brown-haired girl wearing a yellow and pink shirt , and carrying a blue backpack is walking next to a blue wall .
+  - A girl wearing a blue backpack is walking beside a blue plastic fence .
+  - a girl on her way to class lined by a blue construction wall .
+  - A girl beside a blue tarp wall wearing a backpack and a purse .
+

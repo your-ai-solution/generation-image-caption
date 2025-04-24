@@ -15,11 +15,11 @@ def run_script(script_name):
 
 def main():
     """
-    Main function to run data preprocessing, training, evaluation, and inference scripts sequentially.
+    Main function to run data downloading and preprocessing, training, evaluation, and inference scripts sequentially.
     """
     print("Starting the workflow...\n")
 
-    # Step 1: Run data preprocessing
+    # Step 1: Run data downloading and preprocessing
     run_script("data.py")
 
     # Step 2: Train the model
