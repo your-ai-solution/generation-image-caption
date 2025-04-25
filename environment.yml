@@ -1,5 +1,5 @@
 
-name: image-caption-generation
+name: generation-image-caption
 channels:
   - defaults
   - conda-forge

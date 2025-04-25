@@ -1,4 +1,4 @@
-# Image Caption Generation
+# Generation: Image Caption
 
 This project presents a multimodal pipeline that generates image captions by leveraging contrastive pre-training and fine-tuning on the Flickr8k dataset.
 
@@ -86,7 +86,7 @@ See full results in `results/inference_results.txt`.
 ## Directory Structure
 
 ```
-image-caption-generation/
+generation-image-caption/
 ├── 1002674143_1b742ab4b8.jpg     # Example Image B
 ├── 1007129816_e794419615.jpg     # Example Image A
 ├── data/                         # Dataset
@@ -113,14 +113,14 @@ image-caption-generation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-ai-solution/image-caption-generation.git
-   cd image-caption-generation
+   git clone https://github.com/your-ai-solution/generation-image-caption.git
+   cd generation-image-caption
    ```
 
 2. Create a Conda environment:
    ```bash
    conda env create -f environment.yml
-   conda activate image-caption-generation
+   conda activate generation-image-caption
    ```
 
 3. Install dependencies:
@@ -132,12 +132,12 @@ image-caption-generation/
 
 1. Build the Docker image:
    ```bash
-   docker build -t image-caption-generation .
+   docker build -t generation-image-caption .
    ```
 
 2. Run the Docker container:
    ```bash
-   docker run --gpus all -v $(pwd)/data:/app/data -v $(pwd)/results:/app/results image-caption-generation
+   docker run --gpus all -v $(pwd)/data:/app/data -v $(pwd)/results:/app/results generation-image-caption
    ```
 
 ##  Usage
