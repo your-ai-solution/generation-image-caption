@@ -23,7 +23,7 @@ This project presents a multimodal pipeline that generates image captions by lev
 
 ## Introduction
 
-This application fine-tunes OpenAI's CLIP model (clip-vit-base-patch32) for image-to-text captioning. It trains on the Flickr8k dataset by aligning paired image-caption samples through multimodal contrastive learning. The trained model can retrieve the most semantically relevant captions given an input image.
+This application fine-tunes OpenAI's Contrastive Language-Image Pre-Training (CLIP) model (clip-vit-base-patch32) for image-to-text captioning. It trains on the Flickr8k dataset by aligning paired image-caption samples through multimodal contrastive learning. The trained model can retrieve the most semantically relevant captions given an input image.
 
 ## Data
 
