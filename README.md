@@ -62,8 +62,11 @@ Here are example results from the trained model:
 ![Example A](1007129816_e794419615.jpg)
 
 Image: 1007129816_e794419615.jpg
+
 True Caption: A man in an orange hat starring at something .
+
 Top-5 Predicted Captions:
+
   - A man with glasses is wearing a beer can crocheted hat .
   - A man wears an orange hat and glasses .
   - A man with glasses is wearing a beer can crocheted hat .
@@ -73,8 +76,11 @@ Top-5 Predicted Captions:
 ![Example B](1002674143_1b742ab4b8.jpg)
 
 Image: 1002674143_1b742ab4b8.jpg  
+
 True Caption: A small girl in the grass plays with fingerpaints in front of a white canvas with a rainbow on it .
+
 Top-5 Predicted Captions:
+
   - A small girl in the grass plays with fingerpaints in front of a white canvas with a rainbow on it .
   - A girl paints in front of a rainbow backdrop .
   - A child sits before a rainbow painting .
