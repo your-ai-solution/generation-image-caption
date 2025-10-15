@@ -15,7 +15,7 @@ This project presents a multimodal pipeline that generates image captions by lev
   - [Docker Setup (Optional)](#docker-setup-optional)
 - [Usage](#usage)
   - [Run Main Script](#run-main-script)
-  - [Run Each Source Script (Optional)](#run-each-source-script-optional)
+  - [Run Each Source Module (Optional)](#run-each-source-module-optional)
     - [Data Preparation](#data-preparation)
     - [Training](#training)
     - [Evaluation](#evaluation)
@@ -93,24 +93,24 @@ See full results in `results/inference_results.txt`.
 
 ```
 generation-image-caption/
-├── 1002674143_1b742ab4b8.jpg     # Example Image B
-├── 1007129816_e794419615.jpg     # Example Image A
-├── data/                         # Dataset
-├── clip.png                      # Illustration of OpenAI CLIP
-├── Dockerfile                    # Docker setup
-├── environment.yml               # Conda environment setup
-├── LICENSE                       # Project license
-├── main.py                       # Main pipeline script
-├── README.md                     # Project README
-├── requirements.txt              # Python dependencies
-├── results/                      # Outputs from inference and evaluation
-│   ├── evaluation_metrics.txt    # Evaluation metrics summary
-│   └── inference_results.txt     # Randomly-selected inference results
-└── src/                          # Source code
-    ├── data.py                   # Data preparation script
-    ├── eval.py                   # Evaluation script
-    ├── infer.py                  # Inference script
-    └── train.py                  # Training script
+├── 1002674143_1b742ab4b8.jpg      # Example Image B
+├── 1007129816_e794419615.jpg      # Example Image A
+├── data/                          # Dataset
+├── clip.png                       # Illustration of OpenAI CLIP
+├── Dockerfile                     # Docker setup
+├── environment.yml                # Conda environment setup
+├── LICENSE                        # Project license
+├── main.py                        # Main pipeline script
+├── README.md                      # Project README
+├── requirements.txt               # Python dependencies
+├── results/                       # Outputs from inference and evaluation
+│   ├── evaluation_metrics.txt     # Evaluation metrics summary
+│   └── inference_results.txt      # Randomly-selected inference results
+└── src/                           # Source code
+    ├── data.py                    # Data preparation script
+    ├── eval.py                    # Evaluation script
+    ├── infer.py                   # Inference script
+    └── train.py                   # Training script
 ```
 
 ## Installation
@@ -155,24 +155,24 @@ Run the main script that automates the entire pipeline:
    python main.py
    ```
 
-### Run Each Source Script (Optional)
+### Run Each Source Module (Optional)
 
 1. Data preparation: Download and preprocess the dataset.
    ```bash
-   python src/data.py
+   python -m src.data
    ```
 
 2. Training: Train a CLIP model.
    ```bash
-   python src/train.py
+   python -m src.train
    ```
 
 3. Evaluation: Evaluate the CLIP model.
    ```bash
-   python src/eval.py
+   python -m src.eval
    ```
 
 4. Inference: Run inference on random test images.
    ```bash
-   python src/infer.py
+   python -m src.infer
    ```
